@@ -26,8 +26,6 @@ public class D9Q0123A {
 		Collection<String> val = m.values();
 		System.out.println("\nTo get values only:");
 		System.out.println(val);
-		
-		System.out.println("Done");
 	}
 
 }
