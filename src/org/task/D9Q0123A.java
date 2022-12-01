@@ -27,7 +27,7 @@ public class D9Q0123A {
 		System.out.println("\nTo get values only:");
 		System.out.println(val);
 		
-		
+		System.out.println("Done");
 	}
 
 }
